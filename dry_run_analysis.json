@@ -1,0 +1,187 @@
+{
+  "prompts": [
+    {
+      "id": 0,
+      "type": "unknown",
+      "token_count": 71,
+      "prompt": "Compare candidates for anchor: Apple iPhone 12 128GB Black\n0: iPhone 12 - 128 GB, black, unlocked\n1: Apple Watch Series 6\n2: iPhone 13 Pro Max 256GB\n3: Apple iPhone 12 Black 128GB\n4: MacBook Air M1\nReturn top-4 indices.",
+      "token_cost_usd": 0.000107
+    },
+    {
+      "id": 1,
+      "type": "select",
+      "token_count": 35,
+      "prompt": "Is this a match?\nAnchor: Apple iPhone 12 128GB Black\nCandidate: iPhone 12 - 128 GB, black, unlocked\nAnswer True or False.",
+      "token_cost_usd": 5.3e-05
+    },
+    {
+      "id": 2,
+      "type": "select",
+      "token_count": 29,
+      "prompt": "Is this a match?\nAnchor: Apple iPhone 12 128GB Black\nCandidate: Apple Watch Series 6\nAnswer True or False.",
+      "token_cost_usd": 4.4e-05
+    },
+    {
+      "id": 3,
+      "type": "select",
+      "token_count": 32,
+      "prompt": "Is this a match?\nAnchor: Apple iPhone 12 128GB Black\nCandidate: iPhone 13 Pro Max 256GB\nAnswer True or False.",
+      "token_cost_usd": 4.8e-05
+    },
+    {
+      "id": 4,
+      "type": "select",
+      "token_count": 32,
+      "prompt": "Is this a match?\nAnchor: Apple iPhone 12 128GB Black\nCandidate: Apple iPhone 12 Black 128GB\nAnswer True or False.",
+      "token_cost_usd": 4.8e-05
+    },
+    {
+      "id": 5,
+      "type": "unknown",
+      "token_count": 51,
+      "prompt": "Compare candidates for anchor: Samsung Galaxy S21\n0: Galaxy S21 smartphone\n1: Samsung Galaxy S20 FE\n2: Samsung Galaxy Buds+\n3: Galaxy S21 Ultra\n4: Samsung Smart TV\nReturn top-4 indices.",
+      "token_cost_usd": 7.7e-05
+    },
+    {
+      "id": 6,
+      "type": "select",
+      "token_count": 24,
+      "prompt": "Is this a match?\nAnchor: Samsung Galaxy S21\nCandidate: Galaxy S21 smartphone\nAnswer True or False.",
+      "token_cost_usd": 3.6e-05
+    },
+    {
+      "id": 7,
+      "type": "select",
+      "token_count": 25,
+      "prompt": "Is this a match?\nAnchor: Samsung Galaxy S21\nCandidate: Samsung Galaxy S20 FE\nAnswer True or False.",
+      "token_cost_usd": 3.8e-05
+    },
+    {
+      "id": 8,
+      "type": "select",
+      "token_count": 24,
+      "prompt": "Is this a match?\nAnchor: Samsung Galaxy S21\nCandidate: Samsung Galaxy Buds+\nAnswer True or False.",
+      "token_cost_usd": 3.6e-05
+    },
+    {
+      "id": 9,
+      "type": "select",
+      "token_count": 24,
+      "prompt": "Is this a match?\nAnchor: Samsung Galaxy S21\nCandidate: Galaxy S21 Ultra\nAnswer True or False.",
+      "token_cost_usd": 3.6e-05
+    },
+    {
+      "id": 10,
+      "type": "unknown",
+      "token_count": 73,
+      "prompt": "Compare candidates for anchor: Sony WH-1000XM4 Headphones\n0: Sony WH1000XM4 Wireless Headphones\n1: Bose QuietComfort 45\n2: Sony WF-1000XM4 Earbuds\n3: Sony WH-1000XM3\n4: JBL Live 660NC\nReturn top-4 indices.",
+      "token_cost_usd": 0.00011
+    },
+    {
+      "id": 11,
+      "type": "select",
+      "token_count": 34,
+      "prompt": "Is this a match?\nAnchor: Sony WH-1000XM4 Headphones\nCandidate: Sony WH1000XM4 Wireless Headphones\nAnswer True or False.",
+      "token_cost_usd": 5.1e-05
+    },
+    {
+      "id": 12,
+      "type": "select",
+      "token_count": 30,
+      "prompt": "Is this a match?\nAnchor: Sony WH-1000XM4 Headphones\nCandidate: Bose QuietComfort 45\nAnswer True or False.",
+      "token_cost_usd": 4.5e-05
+    },
+    {
+      "id": 13,
+      "type": "select",
+      "token_count": 35,
+      "prompt": "Is this a match?\nAnchor: Sony WH-1000XM4 Headphones\nCandidate: Sony WF-1000XM4 Earbuds\nAnswer True or False.",
+      "token_cost_usd": 5.3e-05
+    },
+    {
+      "id": 14,
+      "type": "select",
+      "token_count": 32,
+      "prompt": "Is this a match?\nAnchor: Sony WH-1000XM4 Headphones\nCandidate: Sony WH-1000XM3\nAnswer True or False.",
+      "token_cost_usd": 4.8e-05
+    },
+    {
+      "id": 15,
+      "type": "unknown",
+      "token_count": 66,
+      "prompt": "Compare candidates for anchor: Dell XPS 13 Laptop\n0: Dell XPS 13 9310\n1: MacBook Pro 14-inch\n2: Dell Inspiron 15\n3: Dell XPS 13 Laptop 11th Gen\n4: HP Spectre x360\nReturn top-4 indices.",
+      "token_cost_usd": 9.9e-05
+    },
+    {
+      "id": 16,
+      "type": "select",
+      "token_count": 30,
+      "prompt": "Is this a match?\nAnchor: Dell XPS 13 Laptop\nCandidate: Dell XPS 13 9310\nAnswer True or False.",
+      "token_cost_usd": 4.5e-05
+    },
+    {
+      "id": 17,
+      "type": "select",
+      "token_count": 27,
+      "prompt": "Is this a match?\nAnchor: Dell XPS 13 Laptop\nCandidate: MacBook Pro 14-inch\nAnswer True or False.",
+      "token_cost_usd": 4.1e-05
+    },
+    {
+      "id": 18,
+      "type": "select",
+      "token_count": 27,
+      "prompt": "Is this a match?\nAnchor: Dell XPS 13 Laptop\nCandidate: Dell Inspiron 15\nAnswer True or False.",
+      "token_cost_usd": 4.1e-05
+    },
+    {
+      "id": 19,
+      "type": "select",
+      "token_count": 32,
+      "prompt": "Is this a match?\nAnchor: Dell XPS 13 Laptop\nCandidate: Dell XPS 13 Laptop 11th Gen\nAnswer True or False.",
+      "token_cost_usd": 4.8e-05
+    },
+    {
+      "id": 20,
+      "type": "unknown",
+      "token_count": 49,
+      "prompt": "Compare candidates for anchor: Nintendo Switch OLED\n0: Nintendo Switch OLED Model\n1: PlayStation 5\n2: Nintendo Switch Lite\n3: Nintendo Switch with Neon Joy-Con\n4: Xbox Series X\nReturn top-4 indices.",
+      "token_cost_usd": 7.3e-05
+    },
+    {
+      "id": 21,
+      "type": "select",
+      "token_count": 23,
+      "prompt": "Is this a match?\nAnchor: Nintendo Switch OLED\nCandidate: Nintendo Switch OLED Model\nAnswer True or False.",
+      "token_cost_usd": 3.4e-05
+    },
+    {
+      "id": 22,
+      "type": "select",
+      "token_count": 22,
+      "prompt": "Is this a match?\nAnchor: Nintendo Switch OLED\nCandidate: PlayStation 5\nAnswer True or False.",
+      "token_cost_usd": 3.3e-05
+    },
+    {
+      "id": 23,
+      "type": "select",
+      "token_count": 22,
+      "prompt": "Is this a match?\nAnchor: Nintendo Switch OLED\nCandidate: Nintendo Switch Lite\nAnswer True or False.",
+      "token_cost_usd": 3.3e-05
+    },
+    {
+      "id": 24,
+      "type": "select",
+      "token_count": 25,
+      "prompt": "Is this a match?\nAnchor: Nintendo Switch OLED\nCandidate: Nintendo Switch with Neon Joy-Con\nAnswer True or False.",
+      "token_cost_usd": 3.8e-05
+    }
+  ],
+  "summary": {
+    "model": "gpt-3.5-turbo",
+    "total_prompts": 25,
+    "total_tokens": 874,
+    "total_cost_usd": 0.001315,
+    "rank_prompts": 0,
+    "select_prompts": 20
+  }
+}
